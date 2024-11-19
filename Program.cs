@@ -14,6 +14,7 @@ namespace SchoolClass
                new Classroom { Students = {"Anna", "Viktor", "Vladimir"}, },
                new Classroom { Students = {"Bulat", "Alex", "Galina"}, }
            };
+
             var allStudents = GetAllStudents(classes);
 
 
